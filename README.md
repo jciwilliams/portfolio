@@ -23,6 +23,7 @@ A curated collection of SQL scenarios designed to demonstrate core querying skil
 
 <p align="center">
 <img width="220" alt="Image" src="https://github.com/user-attachments/assets/8f1337ce-2ef2-4427-ba31-834ce24472b7" />
+</p>
 
 
 ## Contact

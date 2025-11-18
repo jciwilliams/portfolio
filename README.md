@@ -21,12 +21,13 @@
 A curated collection of SQL scenarios designed to demonstrate core querying skills. This project includes hands-on examples covering filtering, ordering, calculated fields, and logical conditions. The goal is to show how SQL can be used to analyze data, answer business questions, and extract insights from structured datasets.
 
 
-<img width="220" alt="Image" src="https://github.com/user-attachments/assets/8f1337ce-2ef2-4427-ba31-834ce24472b7" />
-
+![Image](https://github.com/user-attachments/assets/8f1337ce-2ef2-4427-ba31-834ce24472b7)
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/williams-janelle/)
 - [GitHub](https://jciwilliams.github.io/)
+
+
 
 

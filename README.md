@@ -1,4 +1,4 @@
-# Data Analyst | Business Data/Tools Analyst
+# Business Data/Tools Analyst
 
 #### Technical Skills: Excel, SQL, Power BI
 
